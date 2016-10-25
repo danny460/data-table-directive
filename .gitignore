@@ -4,4 +4,3 @@ node_modules/
 #exclude files
 server.js
 .DS_Store
-package.json
